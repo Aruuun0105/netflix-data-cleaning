@@ -8,5 +8,5 @@
 - Converted 'date_added' to datetime format
 - Removed duplicate rows
 - Renamed all column headers to lowercase and replaced spaces with underscores
-- Saved the cleaned dataset as 'cleaned_netflix_data,csv'
+- Saved the cleaned dataset as 'cleaned_netflix_data.csv'
  
